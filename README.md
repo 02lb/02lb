@@ -29,7 +29,7 @@
 
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif" />
 <p align="center">
   <h3> I'm a undergraduate student majoring in CS at Sun Yat-sen University.</h3>
 </p>
@@ -52,7 +52,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=02lb&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
