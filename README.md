@@ -34,12 +34,10 @@
   <h3> I'm a undergraduate student majoring in CS at Sun Yat-sen University.</h3>
 </p>
 
- - I am studying  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2aGw2dWlqbG4wOGhzM3B5b2Ryd2d1OGhyYnA2bWFwaTBjaXVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eeN6hckHtvg4LZRzQH/giphy.gif" width="40px" > **Autonomous Driving** and <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQyZnFpZWd3amZtdTN6MHo5OWMwdHJ1OWFsa2p0OXRkbjk5N2N3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="40px"> **Adversarial Samples**.
- - My dream is to become a <img src = "https://media.giphy.com/media/0g63xmjYDMpPfYGBdt/giphy.gif?cid=ecf05e47ww26bhc4zcfaul1plqz5yldexcw55ffta3qzdd86&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">**Data Scientist**.
-
- - One day I hope to be financially free and <img src= "https://media.giphy.com/media/3ohhwLuj2mUPyddkUU/giphy.gif?cid=790b7611pax0pxu5w54597hlrxrd0d65v69pmf2tyq8u951g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px">**Travel the World**.
- 
- - <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=790b76110zw14kgmbnt7sskjqe8s0e3uda4jggp1g5w9gqtp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px"> **At present, I am enjoying the journey of learning, despite its challenges.**
+ - I am studying  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2aGw2dWlqbG4wOGhzM3B5b2Ryd2d1OGhyYnA2bWFwaTBjaXVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eeN6hckHtvg4LZRzQH/giphy.gif" width="30px" > ***Autonomous Driving*** and <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQyZnFpZWd3amZtdTN6MHo5OWMwdHJ1OWFsa2p0OXRkbjk5N2N3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="30px"> ***Adversarial Samples***.
+ - My dream is to become a <img src = "https://media.giphy.com/media/0g63xmjYDMpPfYGBdt/giphy.gif?cid=ecf05e47ww26bhc4zcfaul1plqz5yldexcw55ffta3qzdd86&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">***Data Scientist***.
+ - One day I hope to be financially free and <img src= "https://media.giphy.com/media/3ohhwLuj2mUPyddkUU/giphy.gif?cid=790b7611pax0pxu5w54597hlrxrd0d65v69pmf2tyq8u951g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">***Travel the World***.
+ -  *I'm enjoying the journey of learning, despite its challenges.*<img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=790b76110zw14kgmbnt7sskjqe8s0e3uda4jggp1g5w9gqtp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px">
  
  
 
@@ -58,7 +56,6 @@
 
 <br />
 
-### - Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
