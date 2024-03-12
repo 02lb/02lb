@@ -24,23 +24,22 @@
  </p>
  
  <h5 align="center">
-   <i>JUST DO IT and AI <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbDloZTUxNTlveHBxZ3FlNXQwZTMyOHd5bTZmNjA4bGR0ZTk2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xwx6UV2qgwLlDQ5MRW/giphy.gif" width="25px"> THE WORLD</i>
+   <i>JUST DO IT and AI <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbDloZTUxNTlveHBxZ3FlNXQwZTMyOHd5bTZmNjA4bGR0ZTk2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xwx6UV2qgwLlDQ5MRW/giphy.gif" width="25px" > THE WORLD</i>
   </h5>
 
- 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif" />
+<img align="right" height="300px" width="480px" alt="GIF" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=790b7611tbog25q3qs9ylxbujps52sowo8a7a1pb39qdxo39&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <p align="center">
+   
   <h3> I'm a undergraduate student majoring in CS at Sun Yat-sen University.</h3>
 </p>
 
- - I am studying  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2aGw2dWlqbG4wOGhzM3B5b2Ryd2d1OGhyYnA2bWFwaTBjaXVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eeN6hckHtvg4LZRzQH/giphy.gif" width="50px"> **Autonomous Driving** and <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQyZnFpZWd3amZtdTN6MHo5OWMwdHJ1OWFsa2p0OXRkbjk5N2N3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="50px"> **Adversarial Samples** techniques. 
- 
+ - I am studying  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g2aGw2dWlqbG4wOGhzM3B5b2Ryd2d1OGhyYnA2bWFwaTBjaXVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eeN6hckHtvg4LZRzQH/giphy.gif" width="40px" > **Autonomous Driving** and <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQyZnFpZWd3amZtdTN6MHo5OWMwdHJ1OWFsa2p0OXRkbjk5N2N3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="40px"> **Adversarial Samples**.
  - My dream is to become a <img src = "https://media.giphy.com/media/0g63xmjYDMpPfYGBdt/giphy.gif?cid=ecf05e47ww26bhc4zcfaul1plqz5yldexcw55ffta3qzdd86&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">**Data Scientist**.
 
- - One day I hope to be financially free and <img src= "https://media.giphy.com/media/3ohhwLuj2mUPyddkUU/giphy.gif?cid=790b7611pax0pxu5w54597hlrxrd0d65v69pmf2tyq8u951g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">**Travel the World**.
+ - One day I hope to be financially free and <img src= "https://media.giphy.com/media/3ohhwLuj2mUPyddkUU/giphy.gif?cid=790b7611pax0pxu5w54597hlrxrd0d65v69pmf2tyq8u951g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px">**Travel the World**.
  
- - <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=790b76110zw14kgmbnt7sskjqe8s0e3uda4jggp1g5w9gqtp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> **At present, I am enjoying the journey of learning, despite its challenges.**
+ - <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=790b76110zw14kgmbnt7sskjqe8s0e3uda4jggp1g5w9gqtp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px"> **At present, I am enjoying the journey of learning, despite its challenges.**
  
  
 
@@ -63,56 +62,17 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:4px">
 
 
-
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
