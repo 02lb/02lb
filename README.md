@@ -8,7 +8,8 @@
  <a href="404"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://02lb.github.io/"><img height="30" src="https://github.com/02lb/02lb/assets/116290336/ff9ffc45-89e8-4fb5-9140-c616605e6eba"></a>&nbsp;&nbsp;
  <a href="mailto:libo88@mail2.sysu.edu.cn"><img height="30" src="https://github.com/02lb/02lb/assets/116290336/e8c28a79-47f8-4660-86fe-e8079ec10b81"></a>&nbsp;&nbsp;
- <a href="https://weixin.qq.com/"><img height="30" src="https://github.com/02lb/02lb/assets/116290336/22f99722-0c14-45d2-9e2b-6e366e03dd1c";
+ <a href="https://weixin.qq.com/"><img height="30" src="https://github.com/02lb/02lb/assets/116290336/22f99722-0c14-45d2-9e2b-6e366e03dd1c"></a>&nbsp;&nbsp;
+ <a href="https://space.bilibili.com/646181615"><img height="30" src="https://cdn.jsdelivr.net/gh/02lb/img_picGo@main/img_data/bilibili.png";
 
  </p>
 
